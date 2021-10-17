@@ -5,7 +5,7 @@ module.exports = {
       port: 8545,
       network_id: "*" // Match any network id
     }
-  }
+  },
   // // To run contract with the latest compiler, uncomment lines 10-14 below:
   // compilers: { 
   //   solc: {
